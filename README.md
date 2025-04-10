@@ -22,24 +22,25 @@
 使用 VPN 科学上网访问，推荐使用电脑浏览器（Chrome/Edge）。
 
 ### 2️⃣ 点击右上角【Sign up】进入注册流程  
-📸 示例截图：`assets/step02_click-signup.png`
+📸 示例截图：`assets/step02_click-signup.jpg`
 
 ### 3️⃣ 输入你的邮箱地址  
-📸 `assets/step03_enter-email.png`
+📸 `assets/step03_enter-email.jpg`
 
 ### 4️⃣ 设置一个密码  
-📸 `assets/step04_set-password.png`
+📸 `assets/step04_set-password.jpg`
 
 ### 5️⃣ 打开邮箱查收验证码邮件  
-📸 `assets/step05_check-email.png`
+📸 `assets/step05_check-email.jpg`
 
 ### 6️⃣ 在注册页面填写验证码  
-📸 `assets/step06_enter-code.png`
+📸 `assets/step06_enter-code.jpg`
 
 ### 7️⃣ 输入你的姓名与出生日期  
-建议年龄填 18 岁以上，确保顺利注册。📸 `assets/step07_fill-name-birthday.png`
+建议年龄填 18 岁以上，确保顺利注册。📸 `assets/step07_fill-name-birthday.jpg`
 
 ### 8️⃣ 完成注册，进入 ChatGPT 主界面  
+📸 `assets/step08_main_page.jpg`
 🎉 你现在可以免费使用 ChatGPT 啦！
 
 ---
