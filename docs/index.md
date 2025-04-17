@@ -39,41 +39,41 @@ description: 中文用户适用的 ChatGPT 注册图文教程，2025 最新版�
 ---
 
 ### 2️⃣ 点击右上角「Sign up」  
-![点击注册按钮](../assets/step02_click-signup.jpg)
+![点击注册按钮](/chatgpt-register-guide/assets/step02_click-signup.jpg)
 
 ---
 
 ### 3️⃣ 输入你的邮箱地址  
 建议使用 Gmail，避免验证码收不到。  
-![输入邮箱](../assets/step03_enter-email.jpg)
+![输入邮箱](/chatgpt-register-guide/assets/step03_enter-email.jpg)
 
 ---
 
 ### 4️⃣ 设置一个密码  
 不少于 8 位，建议包含大小写与数字组合。  
-![设置密码](../assets/step04_set-password.jpg)
+![设置密码](/chatgpt-register-guide/assets/step04_set-password.jpg)
 
 ---
 
 ### 5️⃣ 登录邮箱，查收验证码邮件  
-![查收验证码邮件](../assets/step05_check-email.jpg)
+![查收验证码邮件](/chatgpt-register-guide/assets/step05_check-email.jpg)
 
 ---
 
 ### 6️⃣ 回到注册页面，填写验证码  
-![填写验证码](../assets/step06_enter-code.jpg)
+![填写验证码](/chatgpt-register-guide/assets/step06_enter-code.jpg)
 
 ---
 
 ### 7️⃣ 输入姓名和出生日期  
 建议填写 18 岁以上，信息无需真实。  
-![填写姓名和生日](../assets/step07_fill-name-birthday.jpg)
+![填写姓名和生日](/chatgpt-register-guide/assets/step07_fill-name-birthday.jpg)
 
 ---
 
 ### 8️⃣ 注册完成，进入 ChatGPT 主界面！  
 🎉 你现在可以开始使用 ChatGPT 啦！  
-![注册完成](../assets/step08_main_page.jpg)
+![注册完成](/chatgpt-register-guide/assets/step08_main_page.jpg)
 
 ---
 
@@ -91,8 +91,8 @@ description: 中文用户适用的 ChatGPT 注册图文教程，2025 最新版�
 ## 📚 继续探索 · 配套教程推荐
 
 - [💳 ChatGPT Plus 升级教程](https://chatgpt-helper-tech.github.io/chatgpt-plus-guide/)
-- [🔐 2025 VPN 推荐指南（科学上网工具）](https://chatgpt-helper-tech.github.io/network-access/)
-- [✈️ 2025 科学上网机场推荐榜单](https://chatgpt-helper-tech.github.io/airport-access/)
+- [🔐 2025 VPN 推荐（科学上网工具）](https://chatgpt-helper-tech.github.io/network-access/)
+- [✈️ 2025  场推荐榜单](https://chatgpt-helper-tech.github.io/airport-access/)
 - [📘 中文主页 · 教程导航站](https://chatgpt-helper-tech.github.io/)
 
 ---
