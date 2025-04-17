@@ -92,7 +92,7 @@ description: 中文用户适用的 ChatGPT 注册图文教程，2025 最新版�
 
 - [💳 ChatGPT Plus 升级教程](https://chatgpt-helper-tech.github.io/chatgpt-plus-guide/)
 - [🔐 2025 VPN 推荐（科学上网工具）](https://chatgpt-helper-tech.github.io/network-access/)
-- [✈️ 2025  场推荐榜单](https://chatgpt-helper-tech.github.io/airport-access/)
+- [✈️ 2025 机场 推荐](https://chatgpt-helper-tech.github.io/airport-access/)
 - [📘 中文主页 · 教程导航站](https://chatgpt-helper-tech.github.io/)
 
 ---
