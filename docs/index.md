@@ -97,5 +97,7 @@ description: 中文用户适用的 ChatGPT 注册图文教程，2025 最新版�
 
 ---
 
-📬 本教程由 [chatgpt-helper-tech](https://github.com/chatgpt-helper-tech) 维护  
-欢迎 Star 收藏，本站长期更新中文用户专用的 AI 工具教程 🔧
+📬 本项目由 [chatgpt-helper-tech](https://github.com/chatgpt-helper-tech) 维护，面向中文用户持续更新  
+📂 GitHub Pages 主站地址：[https://chatgpt-helper-tech.github.io](https://chatgpt-helper-tech.github.io)  
+⭐ 如果你觉得本站有帮助，请点击 Star 或分享给有需要的朋友  
+---
