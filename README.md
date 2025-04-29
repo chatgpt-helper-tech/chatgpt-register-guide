@@ -94,16 +94,16 @@
 | 文件上传 | ✅ 基础 | ✅ 高并发分析 |
 | 自定义 GPT / 插件 | ✅ 支持 | ✅ 全面支持 |
 
-如需升级，请参考 👉 [ChatGPT Plus 升级教程](https://chatgpt-helper-tech.github.io/chatgpt-plus-guide/)
+如需升级，请参考 👉 [ChatGPT Plus 升级教程](https://gptvpnhelper.com/chatgpt-plus-guide/)
 
 ---
 
 ## 📚 推荐配套内容（快速入口）
 
-- [📘 ChatGPT 中文导航主页](https://chatgpt-helper-tech.github.io/)
-- [💳 ChatGPT Plus 升级教程](https://chatgpt-helper-tech.github.io/chatgpt-plus-guide/)
-- [🔐 2025 VPN 推荐榜单（科学上网工具）](https://chatgpt-helper-tech.github.io/network-access/)
-- [✈️ 2025 机场 推荐榜单 ](https://chatgpt-helper-tech.github.io/airport-access/)
+- [📘 ChatGPT 中文导航主页](https://gptvpnhelper.com/)
+- [💳 ChatGPT Plus 升级教程](https://gptvpnhelper.com/chatgpt-plus-guide/)
+- [🔐 2025 VPN 推荐榜单（科学上网工具）](https://gptvpnhelper.com/network-access/)
+- [✈️ 2025 机场 推荐榜单 ](https://gptvpnhelper.com/airport-access/)
 
 ---
 
@@ -119,4 +119,4 @@
 📬 本教程由 [chatgpt-helper-tech](https://github.com/chatgpt-helper-tech) 团队维护  
 💡 教程长期更新，欢迎收藏和 Star 支持我们！
 
-主站入口：[https://chatgpt-helper-tech.github.io](https://chatgpt-helper-tech.github.io)
+主站入口：[https://gptvpnhelper.com](https://gptvpnhelper.com)
