@@ -90,14 +90,14 @@ description: 中文用户适用的 ChatGPT 注册图文教程，2025 最新版�
 
 ## 📚 继续探索 · 配套教程推荐
 
-- [💳 ChatGPT Plus 升级教程](https://chatgpt-helper-tech.github.io/chatgpt-plus-guide/)
-- [🔐 2025 VPN 推荐（科学上网工具）](https://chatgpt-helper-tech.github.io/network-access/)
-- [✈️ 2025 机场 推荐](https://chatgpt-helper-tech.github.io/airport-access/)
-- [📘 中文主页 · 教程导航站](https://chatgpt-helper-tech.github.io/)
+- [💳 ChatGPT Plus 升级教程](https://gptvpnhelper.com/chatgpt-plus-guide/)
+- [🔐 2025 VPN 推荐（科学上网工具）](https://gptvpnhelper.com/network-access/)
+- [✈️ 2025 机场 推荐](https://gptvpnhelper.com/airport-access/)
+- [📘 中文主页 · 教程导航站](https://gptvpnhelper.com/)
 
 ---
 
 📬 本项目由 [chatgpt-helper-tech](https://github.com/chatgpt-helper-tech) 维护，面向中文用户持续更新  
-📂 GitHub Pages 主站地址：[https://chatgpt-helper-tech.github.io](https://chatgpt-helper-tech.github.io)  
+📂 GitHub Pages 主站地址：[https://gptvpnhelper.com](https://gptvpnhelper.com)  
 ⭐ 如果你觉得本站有帮助，请点击 Star 或分享给有需要的朋友  
 ---
