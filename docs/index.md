@@ -1,6 +1,6 @@
 ---
-title: ChatGPT 注册教程（图文详解）
-description: 中文用户适用的 ChatGPT 注册图文教程，2025 最新版本，无需手机号，建议使用 Gmail，附图文 8 步引导。
+title: 2025 ChatGPT 注册教程（图文详解）
+description: 2025 中文用户专用 ChatGPT 注册教程，无需手机号，用 Gmail 快速搞定注册，附 8 步详细图文引导，新手 10 分钟完成，畅享全球 AI 服务。
 ---
 
 ## 📝 ChatGPT 注册教程（适用于中国用户 · 2025 最新）
