@@ -1,6 +1,6 @@
 # 📝 ChatGPT 注册教程【中国用户专属 · 2025 年最新版】
 
-欢迎访问本站！如果你想用 ChatGPT 却不知道如何注册账号，或曾因收不到验证码、打不开官网而失败，不要担心！本教程为你准备了 **最清晰的图文步骤 + 免费工具推荐**，带你 10 分钟完成注册并体验 GPT-4o！
+欢迎访问**ChatGPT 中文助手站**！如果你想用 ChatGPT 却不知道如何注册账号，或曾因收不到验证码、打不开官网而失败，不要担心！本教程为你准备了 **最清晰的图文步骤 + 免费工具推荐**，带你 10 分钟完成注册并体验 GPT-4o！
 
 ---
 
@@ -20,9 +20,9 @@
 为了顺利访问 OpenAI 官网和注册流程，建议提前准备以下工具：
 
 - [🌐 免费 机场（可以使用临时翻墙工具）](https://w1.v2free.cc/auth/register?code=i0A3) – 快速注册，访问 OpenAI 无障碍
-- 👉 想要更加快速稳定的访问ChatGPT,也可以使用快速稳定的工具： 
-- [✈️ 2025 机场 使用指南](https://github.com/chatgpt-helper-tech/airport-access)
-- [🔐 2025 VPN 使用指南](https://github.com/chatgpt-helper-tech/network-access)
+- 👉 想要更加快速稳定的访问ChatGPT,也可以访问本站实测的快速稳定的翻墙工具： 
+- [✈️ 2025 机场 使用指南](https://gptvpnhelper.com/airport-access)
+- [🔐 2025 VPN 使用指南](https://gptvpnhelper.com/network-access)
 
 
 ---
@@ -100,4 +100,4 @@ GPT-4o 是 OpenAI 最新发布的多模态模型，速度快、支持语音/图�
 📬 本教程由 [chatgpt-helper-tech](https://github.com/chatgpt-helper-tech) 团队维护  
 💡 教程长期更新，欢迎收藏和 Star 支持我们！
 
-GithubPages主站入口：[https://gptvpnhelper.com](https://gptvpnhelper.com)
+ChatGPT 中文助手主站入口：[https://gptvpnhelper.com](https://gptvpnhelper.com)
