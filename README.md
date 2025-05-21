@@ -100,4 +100,4 @@ GPT-4o 是 OpenAI 最新发布的多模态模型，速度快、支持语音/图�
 📬 本教程由 [chatgpt-helper-tech](https://github.com/chatgpt-helper-tech) 团队维护  
 💡 教程长期更新，欢迎收藏和 Star 支持我们！
 
-主站入口：[https://gptvpnhelper.com](https://gptvpnhelper.com)
+GithubPages主站入口：[https://gptvpnhelper.com](https://gptvpnhelper.com)
