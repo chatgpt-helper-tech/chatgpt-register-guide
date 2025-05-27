@@ -73,6 +73,7 @@
 - [🔐 VPN 推荐 VPN使用指南](https://gptvpnhelper.com/network-access/)
 - [✈️ 机场推荐 机场使用指南](https://gptvpnhelper.com/airport-access/)
 - [📘 本站GithubPages导航站](https://gptvpnhelper.com/)
+- [📘 ChatGPT最佳实践以及使用技巧](https://gptvpnhelper.com/guide/)
 
 ---
 ## 🙋 常见问题 FAQ
