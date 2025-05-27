@@ -78,6 +78,7 @@ description: 2025 年最新 ChatGPT 注册教程，适合中国用户！免手�
 - [🔐 VPN 推荐与使用教程](https://gptvpnhelper.com/network-access/)
 - [✈️ 机场 推荐与使用教程](https://gptvpnhelper.com/airport-access/)
 - [📘 中文教程导航站](https://gptvpnhelper.com/)
+- [📘 ChatGPT最佳实践以及使用技巧](https://gptvpnhelper.com/guide/)
 
 ---
 ## 🙋 常见问题 FAQ
